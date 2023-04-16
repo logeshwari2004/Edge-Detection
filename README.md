@@ -98,8 +98,8 @@ sobel x:
 ![DIP7A](https://user-images.githubusercontent.com/94211349/232272401-2a09e9e3-cb8a-4ee3-8a47-fad9d8c7805f.png)
 
 sobel y:
+![DIP7B1](https://user-images.githubusercontent.com/94211349/232272533-83b1f7d0-8a83-4370-9f64-ec089bc967df.png)
 
-![DIP7B](https://user-images.githubusercontent.com/94211349/232272410-9c9cc81a-859a-478e-99b3-8235e9f867fb.png)
 
 sobel xy:
 ![DIP7C](https://user-images.githubusercontent.com/94211349/232272420-6bd52b75-d080-4ba9-9452-e4fe6d133def.png)
